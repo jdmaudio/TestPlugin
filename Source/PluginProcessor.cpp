@@ -154,6 +154,8 @@ void TestPluginAudioProcessor::processBlock (juce::AudioBuffer<float>& buffer, j
 
         // ..do something to the data...
     }
+
+    float gain = 0.0f;
 }
 
 //==============================================================================
